@@ -1,0 +1,7 @@
+<html>
+    <body>
+        <script type=""text/javascript">
+        alert("hello javapoint");
+    </script>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+var x=("12.00")
+console.log("enter the time:")
+if(x>"4" &x<"12")
+    console.log("good morning")
+else if(x>"12" & x<"18")
+    console.log("good afternoon")
+else if(x>"18" &x<="24")
+    console.log("good evening")
